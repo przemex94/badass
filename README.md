@@ -1,2 +1,2 @@
 # badass.py
-Badass is scammer for credit card staling scam sites.
+Showing a Craigslist scammer who's boss...
